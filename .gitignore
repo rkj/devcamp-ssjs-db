@@ -1,0 +1,4 @@
+.bundle/
+doc/
+osm/*.json
+osm/*.osm
