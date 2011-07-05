@@ -1,0 +1,11 @@
+source :rubygems
+
+gem 'nokogiri'
+gem "json"
+gem 'awesome_print'
+
+gem 'data_mapper'
+gem 'dm-mysql-adapter'
+gem 'dm-migrations'
+gem 'dm-constraints'
+
