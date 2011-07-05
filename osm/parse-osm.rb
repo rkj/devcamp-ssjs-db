@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 # Small script for scraping POIs from JOSM (http://wiki.openstreetmap.org/wiki/JOSM_file_format).
+require 'rubygems'
 require 'bundler/setup'
 require 'nokogiri'
 require 'json'

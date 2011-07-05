@@ -1,0 +1,8 @@
+local: 
+  adapter:  mysql
+  database: geo
+  username: import
+  password: some_password
+  host:     localhost
+
+
